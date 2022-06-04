@@ -1,0 +1,15 @@
+{
+    "artifactory_url":"https://myserver.jfrog.io/artifactory",
+    "folders":[
+        {
+            "repo":"kubes",
+            "path":["vol/backup","vol/bootstrap"],
+            "keep_minimum":4
+        },
+        {
+            "repo":"",
+            "path":[""],
+            "keep_minimum":2
+        }
+    ]
+}
