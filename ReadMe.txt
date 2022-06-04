@@ -11,3 +11,6 @@ How to run
 3. Fill the JSON file 
     keep_minimum: Minimum Folders that needs to be kept
 4. Run the script as "python Delete_Artifacts_Folders.py"
+
+
+Developer - K.Janarthanan
