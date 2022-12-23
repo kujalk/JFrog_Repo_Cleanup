@@ -14,3 +14,5 @@ How to run
 
 
 Developer - K.Janarthanan
+
+Blog - https://scripting4ever.wordpress.com/2022/12/23/jfrog-artifacts-cleanup-using-python/
